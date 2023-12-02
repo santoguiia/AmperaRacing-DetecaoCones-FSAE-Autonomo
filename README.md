@@ -18,10 +18,6 @@ O objetivo principal deste projeto é aprimorar a capacidade de detecção de co
 
 5. **Interface Gráfica de Usuário (GUI):** Desenvolvimento de uma interface amigável para visualização e análise em tempo real das detecções de cones, facilitando a depuração e otimização do sistema.
 
-## Como Contribuir
-
-Se você está interessado em contribuir para o desenvolvimento deste projeto, confira nossas [diretrizes de contribuição](CONTRIBUTING.md) para obter informações detalhadas sobre como participar. Estamos abertos a novas ideias, melhorias e correções de bugs.
-
 ## Documentação
 
 Consulte nossa [documentação](docs/) para obter informações detalhadas sobre a arquitetura, instalação e configuração do sistema de detecção de cones para a Ampera Racing.

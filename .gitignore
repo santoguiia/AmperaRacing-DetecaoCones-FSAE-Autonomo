@@ -1,0 +1,7 @@
+**/__pychace__
+.pytest_cache
+.env
+.pre-commit-config.yaml
+.pylintrc
+.vscode
+runs

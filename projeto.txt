@@ -1,0 +1,11 @@
+Este documento detalha o desafio enfrentado pela equipe durante a última temporada da competição, que introduziu uma nova categoria de carros autônomos. A base desse projeto foi inspirada no conteúdo anteriormente disponível, focando especialmente na área de percepção de objetos. A inclusão da categoria autônoma exigiu uma adaptação significativa ao projeto original da Ampera, com a necessidade de uma abordagem aprimorada devido à integração de sistemas autônomos.
+
+O desafio central consistiu em implementar tecnologias avançadas para assegurar que os carros elétricos da Ampera pudessem competir de maneira eficaz e totalmente autônoma. O trabalho desenvolvido neste repositório concentra-se na melhoria e implementação dos sistemas de percepção nos carros elétricos da Ampera.
+
+Foram empregadas técnicas de inteligência artificial, incluindo redes neurais convolucionais, notáveis pela sua aplicação na YOLO para a detecção precisa de cones. O treinamento da rede foi conduzido pela plataforma Roboflow, utilizando o dataset fornecido pela Formula Students. Posteriormente, foram realizados diversos testes com diferentes configurações de redes neurais para validar a confiabilidade na detecção de cones. A câmera utilizada no processo realiza uma variedade de pré-processamentos, detalhados nos diversos notebooks que compõem este repositório.
+
+A implementação dessas soluções tem como objetivo aprimorar significativamente a detecção de cones para o veículo autônomo da Ampera, preparando-o para participar de forma competitiva na Formula SAE. A expectativa é que essa abordagem inovadora impulsione a competitividade da equipe, destacando-a não apenas na eficiência elétrica, mas também na autonomia inteligente.
+
+Repositório do Github: https://github.com/santoguiia/AmperaRacing-DetecaoCones-FSAE-Autonomo
+Slides: https://docs.google.com/presentation/d/1LIujw-gW1ptK9TSGOEH-QzywOHQUqgZcArdjxGVNWG4/edit?usp=sharing
+Poster: https://docs.google.com/presentation/d/1h3Fu1nfD3Io4Y16KvMVIjmN8M8uRfSHeqn3mfDexpxM/edit?usp=sharing

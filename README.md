@@ -4,7 +4,11 @@ Bem-vindo ao repositório oficial do projeto de detecção de cones desenvolvido
 
 ## Visão Geral
 
-O objetivo principal deste projeto é aprimorar a capacidade de detecção de cones em ambientes desafiadores e dinâmicos, fundamentais para o planejamento de trajetória e navegação autônoma em pistas de competição. A detecção precisa de cones é vital para garantir a segurança, eficiência e desempenho otimizado do veículo durante as provas.
+O desafio central consistiu em implementar tecnologias avançadas para assegurar que os carros elétricos da Ampera pudessem competir de maneira eficaz e totalmente autônoma. O trabalho desenvolvido neste repositório concentra-se na melhoria e implementação dos sistemas de percepção nos carros elétricos da Ampera.
+
+Foram empregadas técnicas de inteligência artificial, incluindo redes neurais convolucionais, notáveis pela sua aplicação na YOLO para a detecção precisa de cones. O treinamento da rede foi conduzido pela plataforma Roboflow, utilizando o dataset fornecido pela Formula Students. Posteriormente, foram realizados diversos testes com diferentes configurações de redes neurais para validar a confiabilidade na detecção de cones. A câmera utilizada no processo realiza uma variedade de pré-processamentos, detalhados nos diversos notebooks que compõem este repositório.
+
+A implementação dessas soluções tem como objetivo aprimorar significativamente a detecção de cones para o veículo autônomo da Ampera, preparando-o para participar de forma competitiva na Formula SAE. A expectativa é que essa abordagem inovadora impulsione a competitividade da equipe, destacando-a não apenas na eficiência elétrica, mas também na autonomia inteligente.
 
 ## Funcionalidades Principais
 

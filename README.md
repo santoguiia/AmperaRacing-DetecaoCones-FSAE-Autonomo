@@ -10,6 +10,8 @@ Foram empregadas técnicas de inteligência artificial, incluindo redes neurais 
 
 A implementação dessas soluções tem como objetivo aprimorar significativamente a detecção de cones para o veículo autônomo da Ampera, preparando-o para participar de forma competitiva na Formula SAE. A expectativa é que essa abordagem inovadora impulsione a competitividade da equipe, destacando-a não apenas na eficiência elétrica, mas também na autonomia inteligente.
 
+Veja uma apresentação mais detalhada do projeto clicando [aqui](https://www.youtube.com/watch?v=msBEfioY-L0)
+
 ## Funcionalidades Principais
 
 1. **Detecção Robusta:** Implementação de algoritmos avançados de visão computacional para assegurar a identificação precisa e rápida de cones, mesmo em condições adversas de iluminação e terreno.

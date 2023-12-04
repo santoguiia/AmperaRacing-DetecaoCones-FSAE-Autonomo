@@ -26,6 +26,4 @@ Veja uma apresentação mais detalhada do projeto clicando [aqui](https://www.yo
 
 ## Documentação
 
-Consulte nossa [documentação](docs/) para obter informações detalhadas sobre a arquitetura, instalação e configuração do sistema de detecção de cones para a Ampera Racing.
-
-Agradecemos sua contribuição para impulsionar a inovação em carros elétricos autônomos na Formula SAE. Juntos, estamos moldando o futuro da competição automotiva. Vamos acelerar! 🏎️✨
+Consulte nossa [documentação](docs/) para obter informações detalhadas sobre a instalação e configuração do dataset utilizado.
